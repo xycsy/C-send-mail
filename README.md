@@ -1,1 +1,1 @@
-# C-send-mail
+使用c语言发送mail
